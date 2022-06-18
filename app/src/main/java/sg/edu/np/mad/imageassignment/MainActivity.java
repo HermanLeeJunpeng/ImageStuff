@@ -22,7 +22,6 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    //Test
 
     ImageView CameraImage;
     Button takePhoto;
